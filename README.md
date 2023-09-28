@@ -7,5 +7,5 @@ Blog realizado como proyecto final
 En el cual se puede publicar posteos con imagen.
 Para iniciar el blog se debe conectar a la base de datos a traves de la consola con el comando * npm run dev *
 Luego alli nos dira en que puerto se abrio el proyecto.
-Lautaro Nuriel Maza
+Patricio Nahuel Raber
 2023

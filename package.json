@@ -1,5 +1,5 @@
 {
-  "name": "PatricioRaber",
+  "name": "21648b-practica-express",
   "version": "1.0.0",
   "description": "![Express Nodejs](https://miro.medium.com/v2/resize:fit:1400/1*f7ztMaMM0etsFHpEfkdiwA.png)",
   "main": "app.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/PatoRaber/comision-21648-B-Patricio-Raber"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/PatoRaber/comision-21648-B-Patricio-Raber/issues/"
   },
   "homepage": "",
   "dependencies": {
